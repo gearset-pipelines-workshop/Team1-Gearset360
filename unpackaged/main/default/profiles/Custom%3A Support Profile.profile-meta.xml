@@ -3,6 +3,11 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.Toby_s_amazing_new_super_smart_field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>AppointmentInvitation.AppointmentTopicId</field>
         <readable>true</readable>
     </fieldPermissions>
